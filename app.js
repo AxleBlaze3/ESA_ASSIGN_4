@@ -1,4 +1,5 @@
 require('./api/models/sms')
+require('dotenv').config();
 const mongoose=require('mongoose')
 const express=require('express')
 const {inbound}=require('./api/routes/inbound')
