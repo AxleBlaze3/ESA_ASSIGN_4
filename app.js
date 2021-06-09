@@ -4,7 +4,7 @@ const express=require('express')
 const {inbound}=require('./api/routes/inbound')
 const outbound=require('./api/routes/outbound')
 const app=express()
-const port = 8080;
+const port = 3000;
 app.use(express.json());
 app.use(express.urlencoded({
   extended: true
