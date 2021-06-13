@@ -28,7 +28,7 @@ Go into the project dir and then
 npm install
 npm start
 ```
-The application should be running on localhost:3000
-Once setup and running the apis can be called using an application like postman
+The application should be running on localhost:3000  <br />
+#### Once setup and running the apis can be called using an application like postman
 
 
