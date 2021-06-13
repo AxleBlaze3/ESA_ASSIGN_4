@@ -6,14 +6,14 @@ SMS-API
 ## Using the api i.e. deployed on heroku
 ### Inbound Api
 
-url: <https://esa-sms.herokuapp.com/inbound/sms>
-type: post
+url: <https://esa-sms.herokuapp.com/inbound/sms>  <br />
+type: post <br />
 params (req.body): from:Number , Text:String , to:Number (all are required)
 
 ### Outbound Api
 
-url: <https://esa-sms.herokuapp.com/outbound/sms>
-type: post
+url: <https://esa-sms.herokuapp.com/outbound/sms>  <br />
+type: post  <br />
 params (req.body): from:Number , Text:String , to:Number (all are required)
 
 
