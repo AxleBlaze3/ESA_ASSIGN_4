@@ -23,7 +23,7 @@ Go to the folder you want to setup the project in
 ```bash
 git clone https://github.com/AxleBlaze3/ESA_ASSIGN_4.git
 ```
-Then go into the project dir
+Go into the project dir and then
 ```bash
 npm install
 npm start
