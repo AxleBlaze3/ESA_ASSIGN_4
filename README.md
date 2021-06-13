@@ -8,13 +8,13 @@ SMS-API
 
 url: <https://esa-sms.herokuapp.com/inbound/sms>  <br />
 type: post <br />
-params (req.body): from:Number , Text:String , to:Number (all are required)
+params (req.body): from : Number , Text : String , to : Number (all are required)
 
 ### Outbound Api
 
 url: <https://esa-sms.herokuapp.com/outbound/sms>  <br />
 type: post  <br />
-params (req.body): from:Number , Text:String , to:Number (all are required)
+params (req.body): from : Number , Text : String , to : Number (all are required)
 
 
 ## Steps to setup the Sms-API using the Repo
